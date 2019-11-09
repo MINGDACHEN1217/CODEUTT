@@ -5,7 +5,7 @@
 #include "PortIO.h"
 #define SERVICE_UUID "80e90741-bc2c-04b4-300f-183eedb939dd"
 #define CHARACTERISTIC_UUID "fcd8f491-9226-e196-c976-fa290b824f4a"
-
+//cmdddd
 const int ioportled[8] = {4,16,17,13,26,27,14,12};
 const int ioportinter[4] = {39, 38, 37, 36};
 
